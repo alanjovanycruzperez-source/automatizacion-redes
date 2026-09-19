@@ -81,9 +81,9 @@ Los enlaces de descarga de OpenConnect presentaban dificultades.
 Solución: Se instaló OpenConnect VPN para Windows y se verificó su funcionamiento.
 
 ## 8. Conclusiones
-Alan:
+-Alan:
 A través de esta práctica fue posible construir una estación de trabajo completa orientada a la automatización de redes, integrando herramientas de programación, control de versiones, virtualización, simulación de redes y prueba de servicios. Cada una de las actividades realizadas permitió adquirir nuevos conocimientos y reforzar conceptos importantes sobre administración de sistemas y redes, como resultado, se obtuvo un entorno funcional y preparado para desarrollar prácticas más avanzadas en el futuro, además de una mejor comprensión de las tecnologías utilizadas actualmente en entornos profesionales.
-Danna:
+-Danna:
 La realización de esta práctica fue una experiencia muy útil porque me permitió conocer y utilizar diversas herramientas que actualmente son empleadas en el área de tecnologías de la información y redes. Aunque durante el proceso se presentaron algunos problemas de instalación y configuración, fue posible resolverlos mediante investigación y pruebas, lo que ayudó a comprender mejor el funcionamiento de cada aplicación. Gracias a esta práctica pude verificar que todo el entorno de trabajo funciona correctamente y entender cómo cada herramienta cumple una función específica dentro de un proyecto de automatización de redes.
-Flor:
+-Flor:
 Durante esta práctica logré instalar y configurar correctamente todas las herramientas necesarias para la automatización de redes. Aprendí la importancia de preparar adecuadamente un entorno de trabajo antes de comenzar cualquier proyecto, ya que herramientas como Python, Visual Studio Code, Git, Docker, Postman y GNS3 permiten desarrollar, probar y administrar soluciones de una forma más organizada y profesional. Además, pude comprender mejor el funcionamiento de los entornos virtuales y el uso de repositorios para el control de versiones. Esta actividad me permitió fortalecer mis conocimientos técnicos y desarrollar habilidades que serán de gran utilidad en futuras prácticas y proyectos relacionados con redes y automatización.
