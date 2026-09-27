@@ -123,3 +123,5 @@ Durante esta práctica aprendimos a utilizar mejor las herramientas de GNS3 para
 
 -Flor:
 Con esta práctica aprendimos cómo construir y comprobar redes virtuales utilizando GNS3. La principal diferencia entre las topologías fue su nivel de dificultad, ya que la primera solamente necesitó PCs, direccionamiento IP y un switch, mientras que la segunda agregó routers, Loopbacks, un switch multicapa y OSPF. Durante la realización encontramos problemas con algunos dispositivos y configuraciones, los cuales resolvimos revisando cada paso y utilizando comandos para comprobar el funcionamiento de la red. Las pruebas de ping, los vecinos OSPF y la tabla de enrutamiento nos permitieron verificar que los dispositivos estaban comunicándose correctamente.
+
+Documentación y evidencias de la Práctica 02 completadas.
