@@ -118,8 +118,8 @@ Desarrollo de scripts y herramientas para automatizar tareas sobre la infraestru
 En esta práctica aprendí a utilizar GNS3 de una manera más completa, desde crear una red sencilla hasta configurar routers y un switch multicapa, la primera topología fue más fácil porque solamente conectamos dos PCs mediante un switch y comprobamos su comunicación con ping, mientras que en la segunda trabajamos con configuraciones más avanzadas como direcciones IP, interfaces Loopback y el protocolo OSPF. 
 Durante el proceso tuve algunas dificultades, principalmente con las imágenes de Cisco, los nombres de los dispositivos y algunos comandos de configuración, pero pude solucionarlas revisando la configuración y corrigiendo los errores paso a paso. 
 
-- Danna:
+-Danna:
 Durante esta práctica aprendimos a utilizar mejor las herramientas de GNS3 para crear y configurar diferentes tipos de redes virtuales. Notamos que la primera topología era más sencilla porque utilizaba dos PCs y un switch, mientras que la segunda necesitó routers Cisco, un switch multicapa y la configuración de OSPF. Tuvimos algunas dificultades durante la instalación y configuración de los dispositivos, pero las solucionamos revisando los comandos y realizando pruebas de conectividad. Gracias a esto entendimos la importancia de configurar correctamente las direcciones IP y las interfaces para conseguir una comunicación estable.
 
-- Flor:
+-Flor:
 Con esta práctica aprendimos cómo construir y comprobar redes virtuales utilizando GNS3. La principal diferencia entre las topologías fue su nivel de dificultad, ya que la primera solamente necesitó PCs, direccionamiento IP y un switch, mientras que la segunda agregó routers, Loopbacks, un switch multicapa y OSPF. Durante la realización encontramos problemas con algunos dispositivos y configuraciones, los cuales resolvimos revisando cada paso y utilizando comandos para comprobar el funcionamiento de la red. Las pruebas de ping, los vecinos OSPF y la tabla de enrutamiento nos permitieron verificar que los dispositivos estaban comunicándose correctamente.
