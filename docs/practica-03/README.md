@@ -1,30 +1,30 @@
-# *Práctica 03: Primer programa de Python para representar información de dispositivos* 
+# Práctica 03: Primer programa de Python para representar información de dispositivos 
 ## 1. Propósito
 El objetivo de esta práctica fue desarrollar un programa en Python capaz de representar información básica de dispositivos de red utilizados en una infraestructura simulada. Durante el desarrollo se utilizaron variables, diccionarios, listas, estructuras de control y funciones para almacenar, organizar y mostrar datos relacionados con routers y switches. Esta práctica representa el primer acercamiento al uso de Python para el procesamiento de información de infraestructura de red, sentando las bases para futuras actividades de automatización.
 
 ## 2. Conceptos utilizados
-Variables:
+- Variables:
 Permiten almacenar información dentro del programa, como el nombre, dirección IP o estado de un dispositivo.
 
-Tipos de datos
+- Tipos de datos
 Se utilizaron principalmente cadenas de texto (string), listas (list) y diccionarios (dict).
 
-print()
+- print()
 Se empleó para mostrar información en pantalla de manera organizada.
 
-Diccionarios
+- Diccionarios
 Permitieron agrupar todos los datos relacionados con un dispositivo de red mediante pares clave-valor.
 
-Listas
+- Listas
 Se utilizaron para almacenar varios dispositivos dentro de una misma estructura.
 
-Ciclo for
+- Ciclo for
 Permitió recorrer la lista de dispositivos y mostrar la información de cada uno de ellos.
 
-Condicional if
+- Condicional if
 Se empleó para verificar el estado de cada dispositivo y determinar si se encontraba activo o fuera de servicio.
 
-Funciones
+- Funciones
 Se creó una función para reutilizar código y mostrar la información de los dispositivos de forma más eficiente.
 
 ## 3. Dispositivos representados
