@@ -28,10 +28,9 @@ Se empleó para verificar el estado de cada dispositivo y determinar si se encon
 Se creó una función para reutilizar código y mostrar la información de los dispositivos de forma más eficiente.
 
 ## 3. Dispositivos representados
-Dispositivo	    Tipo	    Dirección IP	 Estado	   Función
-    R1          Router     10.1.1.1	     Activo	   Enrutamiento
-    R2	        Router	   10.1.1.2      Activo	   Enrutamiento
-    S1	        Switch	   10.1.1.3	     Activo	   Conectividad
+R1 - ROUTER - Dirección IP: 10.1.1.1 - Estado: Activo - Función: Enrutamiento
+R2 - ROUTER - Dirección IP: 10.1.1.2 - Estado: Activo - Función: Enrutamiento
+S1 - SWITCH - Dirección IP: 10.1.1.2 - Estado: Activo - Función: Enrutamiento
 
 ## 4. Evidencias
 Están dentro de la carpeta de evidencias de practica-03.
