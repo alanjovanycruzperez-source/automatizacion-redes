@@ -125,3 +125,26 @@ Durante esta práctica aprendimos a utilizar mejor las herramientas de GNS3 para
 Con esta práctica aprendimos cómo construir y comprobar redes virtuales utilizando GNS3. La principal diferencia entre las topologías fue su nivel de dificultad, ya que la primera solamente necesitó PCs, direccionamiento IP y un switch, mientras que la segunda agregó routers, Loopbacks, un switch multicapa y OSPF. Durante la realización encontramos problemas con algunos dispositivos y configuraciones, los cuales resolvimos revisando cada paso y utilizando comandos para comprobar el funcionamiento de la red. Las pruebas de ping, los vecinos OSPF y la tabla de enrutamiento nos permitieron verificar que los dispositivos estaban comunicándose correctamente.
 
 Documentación y evidencias de la Práctica 02 completadas.
+
+### Práctica 3
+Primer programa de Python para representar información de dispositivos.
+Estado: Completada.
+
+Se desarrolló un programa en Python capaz de representar y mostrar
+información básica de los dispositivos de la infraestructura simulada.
+
+Próximo paso:
+Desarrollar programas que permitan procesar y automatizar información
+relacionada con la infraestructura de red.
+
+## Conclusiones P3:
+- Danna Paola Pacheco Marquez:
+En esta práctica recordé nuevamente cómo utilizar Python, sus elementos para organizar y representar la información de los dispositivos de una red mediante variables, diccionarios, listas, funciones y estructuras de control.
+Además, ahora puedo decir con toda seguridad que estas herramientas facilitan la administración de los dispositivos y permiten automatizar tareas; todos estos conocimientos serán útiles para desarrollar programas más avanzados relacionados con la configuración, el monitoreo y la automatización de redes para seguir con el proyecto integrador.
+
+- Alan Jovany Cruz Pérez:
+Durante esta práctica aprendí a utilizar conceptos fundamentales de Python como variables, tipos de datos, diccionarios, listas, ciclos, condicionales y funciones, además, comprendí cómo representar dispositivos de red mediante estructuras de datos organizadas y fáciles de administrar.
+Una de las dificultades encontradas fue organizar correctamente la información de los dispositivos y asegurar que todos los datos fueran mostrados de forma adecuada, esta situación se resolvió utilizando diccionarios y funciones para mejorar la estructura del programa, también aprendí la importancia de reutilizar código para facilitar futuras modificaciones.
+
+- Flor Lizbeth Estrada Hernández:
+Durante el desarrollo de esta práctica fortalecí mis conocimientos básicos de Python al utilizar variables, tipos de datos, listas, diccionarios, estructuras condicionales y funciones. Aprendí cómo organizar información de dispositivos de red de una manera estructurada y fácil de consultar dentro de un programa. Una de las principales dificultades fue entender cómo almacenar varios dispositivos y recorrer sus datos correctamente, pero mediante pruebas y correcciones fue posible resolver cada problema. También comprendí la importancia de reutilizar código mediante funciones para hacer los programas más ordenados y eficientes. Esta práctica me permitió visualizar la relación que existe entre la programación y la administración de redes, ya que la información de los dispositivos puede representarse y procesarse de forma automatizada.
