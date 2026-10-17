@@ -37,7 +37,7 @@ Están dentro de la carpeta de evidencias de practica-03.
 
 ## 5. Problemas y soluciones.
 - *1.- Problema:* Condición if-else	- *Causa:* Mal escritura de variable, no identificada	- *Solución:* Corrección a la correcta escritura de la variable.
-- *2.- Problema:* Estructura en GNS3	- *Causa:* Consola congelada al momento de bootear SO de dispositivos	- *Solución:* Creación de una nueva estructura y configuración desde 0 de la misma.
+- *2.- Problema:* Estructura en GNS3	- *Causa:* Consola congelada al momento de bootear el sistema operativo de dispositivos	- *Solución:* Creación de una nueva estructura y configuración desde 0 de la misma.
 
 ## 6. Conclusión:
 - Danna Paola Pacheco Marquez:
