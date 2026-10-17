@@ -28,9 +28,13 @@ Se empleó para verificar el estado de cada dispositivo y determinar si se encon
 Se creó una función para reutilizar código y mostrar la información de los dispositivos de forma más eficiente.
 
 ## 3. Dispositivos representados
-R1 - ROUTER - Dirección IP: 10.1.1.1 - Estado: Activo - Función: Enrutamiento
-R2 - ROUTER - Dirección IP: 10.1.1.2 - Estado: Activo - Función: Enrutamiento
-S1 - SWITCH - Dirección IP: 10.1.1.2 - Estado: Activo - Función: Enrutamiento
+- R1 - ROUTER - Dirección IP: 10.1.1.1 - Estado: Activo - Función: Enrutamiento
+- R2 - ROUTER - Dirección IP: 10.1.1.2 - Estado: Activo - Función: Enrutamiento
+- S1 - SWITCH - Dirección IP: 10.1.1.2 - Estado: Activo - Función: Conectividad
 
 ## 4. Evidencias
 Están dentro de la carpeta de evidencias de practica-03.
+
+## 5. Problemas y soluciones.
+- *1.- Problema:* Condición if-else	- *Causa:* Mal escritura de variable, no identificada	- *Solución:* Corrección a la correcta escritura de la variable.
+- *2.- Problema:* Estructura en GNS3	- *Causa:* Consola congelada al momento de bootear SO de dispositivos	- *Solución:* Creación de una nueva estructura y configuración desde 0 de la misma.
