@@ -1,1 +1,3 @@
 # Dependencias del proyecto
+# P2.- No se requieren dependencias externas para esta práctica.
+# P3.- No se requieren dependencias externas para esta práctica.
