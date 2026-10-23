@@ -1,4 +1,4 @@
-Paso 3. Investigar recursos de Python
+# Paso 3. Investigar recursos de Python
 
 1.	¿Qué es la documentación oficial de un lenguaje de programación?
 Es un conjunto de manuales, guías y referencias publicados por los desarrolladores de un lenguaje de programación. Su objetivo es explicar cómo funciona el lenguaje, sus características y cómo utilizar correctamente sus herramientas.
