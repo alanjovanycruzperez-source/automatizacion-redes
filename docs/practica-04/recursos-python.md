@@ -12,41 +12,34 @@ Permite consultar la sintaxis correcta, conocer cómo funcionan estas estructura
 4.	¿Qué diferencia existe entre consultar documentación oficial y utilizar una respuesta publicada en un foro?
 La documentación oficial proporciona información técnica elaborada y mantenida por los responsables del lenguaje; mientras que, los foros contienen respuestas y experiencias compartidas por otros usuarios, que pueden ser útiles, pero deben verificarse para comprobar que sean correctas y actuales.
 
-Registro de recursos en el archivo recursos-python.md:
+# Recursos de Python
 
+## Recurso 1
 
+**Nombre del recurso:** El tutorial de Python (Documentación Python)
 
+**URL:** [Documentación Oficial de Python](https://docs.python.org/es/3/tutorial/)
 
+**Tema que aborda:** Fundamentos de Python y estructuras de programación.
 
-- Recurso 1. 
+**Tipo de información que ofrece:** Tutoriales, explicaciones y ejemplos sobre variables, listas, diccionarios, ciclos, funciones, módulos y manejo de errores.
 
-•	Nombre del recurso: El tutorial de Python (Documentación Python).
+**Utilidad para el proyecto integrador:** Permite consultar la sintaxis y los conceptos básicos de Python necesarios para desarrollar scripts orientados a la automatización y administración de redes.
 
-•	URL: https://docs.python.org/es/3/tutorial/ 
+**Ejemplo de una situación en la que se consultaría:** Cuando sea necesario corregir o implementar un ciclo `for` para recorrer una lista de dispositivos de red y mostrar su información de manera automática.
 
-•	Tema que aborda: Fundamentos de Python y estructuras de programación.
+---
 
-•	Tipo de información que ofrece: Tutoriales, explicaciones y ejemplos sobre variables, listas, diccionarios, ciclos, funciones, módulos y manejo de errores.
+## Recurso 2
 
-•	Utilidad para el proyecto integrador: Nos permite aprender y consultar la sintaxis necesaria para desarrollar scripts que faciliten las tareas de administración de redes.
+**Nombre del recurso:** Guía para desarrolladores de Python
 
-•	Ejemplo de una situación en la que lo consultarías: Cuando se necesite corregir un ciclo for para recorrer una lista de dispositivos de red y mostrar su información.
+**URL:** [Python Developer's Guide](https://devguide.python.org/)
 
+**Tema que aborda:** Desarrollo, mantenimiento y contribución al lenguaje de programación Python.
 
+**Tipo de información que ofrece:** Guías técnicas sobre configuración del entorno de desarrollo, uso de Git, pruebas de código, documentación y colaboración en proyectos de software.
 
+**Utilidad para el proyecto integrador:** Ayuda a aplicar buenas prácticas de desarrollo, organizar el código, controlar versiones y verificar el correcto funcionamiento de los programas utilizados en la automatización de infraestructura digital.
 
-
-- Recurso 2. 
-
-•	Nombre del recurso: Guía para desarrolladores de Python.
-
-•	URL: https://devguide.python.org/ 
-
-•	Tema que aborda: Desarrollo, mantenimiento y contribución al lenguaje de programación Python.
-
-•	Tipo de información que ofrece: Guías técnicas, instrucciones para configurar el entorno de desarrollo, uso de Git, pruebas de código, documentación y colaboración en el desarrollo de Python. 
-
-•	Utilidad para el proyecto integrador: Nos permite aprender buenas prácticas de desarrollo y conocer herramientas para organizar, probar y mantener el código de los programas.
-
-•	Ejemplo de una situación en la que lo consultarías: Cuando se necesite aprender a utilizar Git para registrar cambios en un programa de Python o consultar cómo realizar pruebas para verificar su funcionamiento.
-
+**Ejemplo de una situación en la que se consultaría:** Cuando sea necesario utilizar Git para registrar cambios en el proyecto o realizar pruebas que permitan validar el funcionamiento del código desarrollado.
