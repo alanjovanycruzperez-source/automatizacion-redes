@@ -14,7 +14,12 @@ La documentación oficial proporciona información técnica elaborada y mantenid
 
 Registro de recursos en el archivo recursos-python.md:
 
+
+
+
+
 Recurso 1. 
+
 •	Nombre del recurso: El tutorial de Python (Documentación Python).
 
 •	URL: https://docs.python.org/es/3/tutorial/ 
@@ -30,7 +35,9 @@ Recurso 1.
 
 
 
+
 Recurso 2. 
+
 •	Nombre del recurso: Guía para desarrolladores de Python.
 
 •	URL: https://devguide.python.org/ 
