@@ -18,7 +18,7 @@ Registro de recursos en el archivo recursos-python.md:
 
 
 
-Recurso 1. 
+- Recurso 1. 
 
 •	Nombre del recurso: El tutorial de Python (Documentación Python).
 
@@ -36,7 +36,7 @@ Recurso 1.
 
 
 
-Recurso 2. 
+- Recurso 2. 
 
 •	Nombre del recurso: Guía para desarrolladores de Python.
 
