@@ -72,4 +72,4 @@ Podrían utilizarse para diseñar topologías en GNS3, resolver problemas de con
 
 **Ejemplo de una situación en la que se consultaría:** Cuando sea necesario crear un script en Python que se conecte a un router y ejecute comandos para consultar o administrar su configuración.
 
-> **Nota:** Antes de utilizar Netmiko, es necesario verificar la compatibilidad del dispositivo y contar con la autorización correspondiente para acceder a él.
+### Nota: Antes de utilizar Netmiko, es necesario verificar la compatibilidad del dispositivo y contar con la autorización correspondiente para acceder a él.
