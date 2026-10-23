@@ -16,10 +16,15 @@ Registro de recursos en el archivo recursos-python.md:
 
 Recurso 1. 
 •	Nombre del recurso: El tutorial de Python (Documentación Python).
+
 •	URL: https://docs.python.org/es/3/tutorial/ 
+
 •	Tema que aborda: Fundamentos de Python y estructuras de programación.
+
 •	Tipo de información que ofrece: Tutoriales, explicaciones y ejemplos sobre variables, listas, diccionarios, ciclos, funciones, módulos y manejo de errores.
+
 •	Utilidad para el proyecto integrador: Nos permite aprender y consultar la sintaxis necesaria para desarrollar scripts que faciliten las tareas de administración de redes.
+
 •	Ejemplo de una situación en la que lo consultarías: Cuando se necesite corregir un ciclo for para recorrer una lista de dispositivos de red y mostrar su información.
 
 
@@ -27,9 +32,14 @@ Recurso 1.
 
 Recurso 2. 
 •	Nombre del recurso: Guía para desarrolladores de Python.
+
 •	URL: https://devguide.python.org/ 
+
 •	Tema que aborda: Desarrollo, mantenimiento y contribución al lenguaje de programación Python.
+
 •	Tipo de información que ofrece: Guías técnicas, instrucciones para configurar el entorno de desarrollo, uso de Git, pruebas de código, documentación y colaboración en el desarrollo de Python. 
+
 •	Utilidad para el proyecto integrador: Nos permite aprender buenas prácticas de desarrollo y conocer herramientas para organizar, probar y mantener el código de los programas.
+
 •	Ejemplo de una situación en la que lo consultarías: Cuando se necesite aprender a utilizar Git para registrar cambios en un programa de Python o consultar cómo realizar pruebas para verificar su funcionamiento.
 
