@@ -57,3 +57,23 @@ Esta estrategia permite investigar el problema de manera ordenada, utilizando fu
 # 6. Aprendizajes obtenidos
 
 Durante esta práctica se aprendió la importancia de utilizar fuentes confiables de información para resolver problemas técnicos y ampliar conocimientos sobre programación y redes. También se identificaron recursos especializados en Python, GNS3 y automatización de infraestructura digital que pueden consultarse en futuras actividades. Además, se comprendió la utilidad de las comunidades de colaboración para encontrar soluciones, compartir experiencias y aprender de otros usuarios. Finalmente, se reforzó la importancia de documentar los hallazgos obtenidos para facilitar el trabajo en equipo y la reutilización del conocimiento en el proyecto integrador.
+
+# 7. Conclusiones individuales
+
+## Danna Pacheco
+
+[Conclusión de Danna]
+
+En esta práctica aprendí que la documentación oficial proporciona información técnica confiable sobre el uso de herramientas y lenguajes de programación, mientras que las comunidades ofrecen respuestas y experiencias compartidas por otros usuarios. Para determinar si un recurso es confiable, revisaría quién lo publicó, su fecha de actualización, la claridad de la información y si sus ejemplos funcionan correctamente. Una comunidad como Stack Overflow me ayudaría a resolver problemas de Python mediante preguntas y respuestas de personas que han enfrentado dificultades similares. 
+También comprendí que es importante documentar las soluciones encontradas en GitHub, ya que esto permite guardar los avances, consultar los cambios realizados y compartir conocimientos con el equipo, además, facilita identificar errores y reutilizar soluciones en futuras actividades. En las siguientes prácticas del proyecto integrador puedo utilizar la documentación oficial de Python para consultar instrucciones y ejemplos de código, así como los recursos de GNS3 y Cisco DevNet para resolver dudas relacionadas con redes. También, como ya lo hemos estado haciendo desde las prácticas pasadas, usaremos GitHub para organizar los archivos y colaborar como equipo. 
+
+
+## Alan Cruz
+
+Durante esta práctica comprendí que la documentación oficial permite conocer de manera detallada cómo funcionan los lenguajes y las herramientas tecnológicas, mientras que las comunidades ayudan a encontrar soluciones a partir de las experiencias de otras personas. Para saber si una fuente es confiable, tomaría en cuenta que provenga de un sitio reconocido, que la información esté actualizada y que los ejemplos sean correctos. Si tuviera un problema con un programa de Python, podría consultar Stack Overflow para encontrar casos similares y revisar las posibles soluciones. 
+Además, utilizaría GitHub para registrar las correcciones y guardar los cambios realizados en el código, de modo que el equipo pueda consultarlos posteriormente, como ya hemos estado trabajando en el repositorio creado. Esto ayudaría a mantener un mejor control del proyecto y evitar repetir errores. En las próximas prácticas, consultaría la documentación de Python para mejorar mis programas y utilizaría GNS3 y Cisco DevNet para aprender más sobre la configuración y automatización de redes. También, compartiría los avances con mis compañeros mediante GitHub. Considero que aprender a utilizar estos recursos es importante para resolver dificultades y desarrollar proyectos tecnológicos de mejor calidad.
+
+## Flor Estrada
+
+Esta actividad me permitió identificar la importancia de consultar diferentes fuentes de información cuando se trabaja con programación y redes. La documentación oficial contiene instrucciones y explicaciones elaboradas por los responsables de una herramienta, mientras que las comunidades permiten intercambiar ideas, plantear dudas y conocer distintas formas de solucionar un problema. Para elegir un recurso adecuado, verificaría la autoridad del autor, la actualidad de los datos, la existencia de ejemplos y la posibilidad de comprobar los resultados. En caso de tener un error en Python, podría buscar el mensaje que aparece en pantalla dentro de una comunidad y comparar las respuestas con la documentación oficial antes de aplicar una solución. 
+Por otro lado, GitHub permite conservar el historial de modificaciones, compartir el código y registrar las soluciones que funcionan. Esto es muy útil porque así todos los integrantes del equipo pueden conocer los avances y continuar el trabajo de otros compañeros. En las siguientes prácticas del proyecto integrador, utilizaremos estos recursos para investigar dudas, mejorar mis scripts, solucionar problemas de conectividad en GNS3 y aprender técnicas de automatización. De esta manera, podremos trabajar de forma más organizada, independiente y colaborativa.
