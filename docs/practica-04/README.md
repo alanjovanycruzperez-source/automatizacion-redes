@@ -1,3 +1,16 @@
+
+# 1. Propósito de la práctica
+
+El propósito de esta práctica fue identificar, analizar y documentar recursos técnicos confiables relacionados con Python, GNS3 y la automatización de redes. Además, se buscó desarrollar la capacidad de localizar información útil, evaluar su confiabilidad y utilizar comunidades de colaboración para resolver problemas técnicos durante el desarrollo de software.
+
+# 2. Relación con el proyecto integrador
+
+Esta práctica se relaciona directamente con el proyecto integrador, ya que proporciona herramientas y recursos que pueden utilizarse para resolver dudas, corregir errores y desarrollar soluciones durante la creación de programas de automatización de redes. La información recopilada servirá como base de conocimiento para futuras prácticas y facilitará el mantenimiento y mejora de los scripts desarrollados por el equipo.
+
+# 6. Aprendizajes obtenidos
+
+Durante esta práctica se aprendió la importancia de utilizar fuentes confiables de información para resolver problemas técnicos y ampliar conocimientos sobre programación y redes. También se identificaron recursos especializados en Python, GNS3 y automatización de infraestructura digital que pueden consultarse en futuras actividades. Además, se comprendió la utilidad de las comunidades de colaboración para encontrar soluciones, compartir experiencias y aprender de otros usuarios. Finalmente, se reforzó la importancia de documentar los hallazgos obtenidos para facilitar el trabajo en equipo y la reutilización del conocimiento en el proyecto integrador.
+
 # Evaluación de la confiabilidad de los recursos
 
 | Criterio | Recurso 1: Documentación de Python | Recurso 2: Documentación de GNS3 | Recurso 3: Netmiko |
