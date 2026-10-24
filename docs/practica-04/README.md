@@ -10,7 +10,7 @@ Esta práctica se relaciona directamente con el proyecto integrador, ya que prop
 # 3. Registro de Recursos
 
 ## Recursos de Python
-
+---
 ### Recurso 1
 
 **Nombre del recurso:** El tutorial de Python (Documentación Python)
@@ -25,7 +25,7 @@ Esta práctica se relaciona directamente con el proyecto integrador, ya que prop
 
 **Ejemplo de una situación en la que se consultaría:** Cuando sea necesario corregir o implementar un ciclo `for` para recorrer una lista de dispositivos de red y mostrar su información de manera automática.
 
-
+---
 ### Recurso 2
 
 **Nombre del recurso:** Guía para desarrolladores de Python
@@ -37,6 +37,7 @@ Esta práctica se relaciona directamente con el proyecto integrador, ya que prop
 **Tipo de información que ofrece:** Guías técnicas sobre configuración del entorno de desarrollo, uso de Git, pruebas de código, documentación y colaboración en proyectos de software.
 
 ## Recursos de Redes y Automatización
+---
 ### Recurso 1
 
 **Nombre del recurso:** Documentación oficial de GNS3
