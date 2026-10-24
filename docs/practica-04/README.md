@@ -7,6 +7,56 @@ El propósito de esta práctica fue identificar, analizar y documentar recursos 
 
 Esta práctica se relaciona directamente con el proyecto integrador, ya que proporciona herramientas y recursos que pueden utilizarse para resolver dudas, corregir errores y desarrollar soluciones durante la creación de programas de automatización de redes. La información recopilada servirá como base de conocimiento para futuras prácticas y facilitará el mantenimiento y mejora de los scripts desarrollados por el equipo.
 
+# 3. Registro de Recursos
+
+## Recursos de Redes y Automatización
+### Recurso 1
+
+**Nombre del recurso:** Documentación oficial de GNS3
+
+**URL:** [Documentación Oficial de GNS3](https://docs.gns3.com/docs)
+
+**Tema que aborda:** Simulación, configuración y solución de problemas en redes.
+
+**Tipo de información que ofrece:** Guías de instalación, configuración, creación de topologías, uso de dispositivos virtuales y solución de problemas.
+
+**Utilidad para el proyecto integrador:** Permite construir y probar topologías de red en un entorno virtual antes de trabajar con equipos físicos.
+
+**Ejemplo de una situación en la que se consultaría:** Cuando sea necesario solucionar un problema de conexión entre dos routers dentro de una topología de GNS3.
+
+---
+
+### Recurso 2
+
+**Nombre del recurso:** Cisco DevNet
+
+**URL:** [Cisco DevNet](https://developer.cisco.com/)
+
+**Tema que aborda:** Programabilidad, automatización y administración de redes Cisco.
+
+**Tipo de información que ofrece:** Documentación de API, laboratorios prácticos, ejemplos de código, entornos de prueba y recursos de automatización con Python.
+
+**Utilidad para el proyecto integrador:** Permite aprender a interactuar con dispositivos y plataformas de red mediante herramientas de programación y automatización.
+
+**Ejemplo de una situación en la que se consultaría:** Cuando sea necesario aprender a utilizar Python para consultar información de un dispositivo Cisco mediante una interfaz de programación compatible.
+
+---
+
+### Recurso 3
+
+**Nombre del recurso:** Netmiko
+
+**URL:** [Netmiko](https://netmiko.org/)
+
+**Tema que aborda:** Automatización de dispositivos de red mediante Python y conexiones SSH.
+
+**Tipo de información que ofrece:** Instrucciones de instalación, ejemplos de código, documentación y detalles sobre las plataformas compatibles.
+
+**Utilidad para el proyecto integrador:** Permite desarrollar scripts para conectarse a dispositivos compatibles, ejecutar comandos y automatizar tareas de configuración.
+
+**Ejemplo de una situación en la que se consultaría:** Cuando sea necesario crear un script en Python que se conecte a un router y ejecute comandos para consultar o administrar su configuración.
+
+### Nota: Antes de utilizar Netmiko, es necesario verificar la compatibilidad del dispositivo y contar con la autorización correspondiente para acceder a él.
 
 # 4. Evaluación de la confiabilidad de los recursos
 
