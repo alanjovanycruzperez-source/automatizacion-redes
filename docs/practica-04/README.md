@@ -86,6 +86,7 @@ Esta práctica se relaciona directamente con el proyecto integrador, ya que prop
 
 ### Nota: Antes de utilizar Netmiko, es necesario verificar la compatibilidad del dispositivo y contar con la autorización correspondiente para acceder a él.
 
+---
 # 4. Evaluación de la confiabilidad de los recursos
 
 | Criterio | Recurso 1: Documentación de Python | Recurso 2: Documentación de GNS3 | Recurso 3: Netmiko |
