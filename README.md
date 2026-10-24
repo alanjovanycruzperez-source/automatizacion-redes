@@ -148,3 +148,16 @@ Una de las dificultades encontradas fue organizar correctamente la información 
 
 - Flor Lizbeth Estrada Hernández:
 Durante el desarrollo de esta práctica fortalecí mis conocimientos básicos de Python al utilizar variables, tipos de datos, listas, diccionarios, estructuras condicionales y funciones. Aprendí cómo organizar información de dispositivos de red de una manera estructurada y fácil de consultar dentro de un programa. Una de las principales dificultades fue entender cómo almacenar varios dispositivos y recorrer sus datos correctamente, pero mediante pruebas y correcciones fue posible resolver cada problema. También comprendí la importancia de reutilizar código mediante funciones para hacer los programas más ordenados y eficientes. Esta práctica me permitió visualizar la relación que existe entre la programación y la administración de redes, ya que la información de los dispositivos puede representarse y procesarse de forma automatizada.
+
+### Práctica 4
+Exploración de comunidades, documentación y recursos de colaboración.
+
+Estado: Completada.
+
+Se identificaron y analizaron recursos de documentación
+y comunidades relacionados con Python, GNS3 y la
+automatización de redes.
+
+Se organizó una base de conocimiento técnica para apoyar
+la resolución de problemas durante las siguientes etapas
+del proyecto integrador.
