@@ -62,8 +62,6 @@ Durante esta práctica se aprendió la importancia de utilizar fuentes confiable
 
 ## Danna Pacheco
 
-[Conclusión de Danna]
-
 En esta práctica aprendí que la documentación oficial proporciona información técnica confiable sobre el uso de herramientas y lenguajes de programación, mientras que las comunidades ofrecen respuestas y experiencias compartidas por otros usuarios. Para determinar si un recurso es confiable, revisaría quién lo publicó, su fecha de actualización, la claridad de la información y si sus ejemplos funcionan correctamente. Una comunidad como Stack Overflow me ayudaría a resolver problemas de Python mediante preguntas y respuestas de personas que han enfrentado dificultades similares. 
 También comprendí que es importante documentar las soluciones encontradas en GitHub, ya que esto permite guardar los avances, consultar los cambios realizados y compartir conocimientos con el equipo, además, facilita identificar errores y reutilizar soluciones en futuras actividades. En las siguientes prácticas del proyecto integrador puedo utilizar la documentación oficial de Python para consultar instrucciones y ejemplos de código, así como los recursos de GNS3 y Cisco DevNet para resolver dudas relacionadas con redes. También, como ya lo hemos estado haciendo desde las prácticas pasadas, usaremos GitHub para organizar los archivos y colaborar como equipo. 
 
